@@ -1,6 +1,5 @@
 # flask-react-boilerplate
-A lightweight boilerplate application built on top of [Flask](https://flask.palletsprojects.com/en/1.1.x/) and [React](https://reactjs.org/).
-
+A lightweight boilerplate application built on top of [Flask](https://flask.palletsprojects.com/en/1.1.x/) and [React](https://reactjs.org/). Test the basic functionality by visiting [https://shrouded-shore-59842.herokuapp.com/](https://shrouded-shore-59842.herokuapp.com/).
 # Backend
 
 ## Available Scripts
